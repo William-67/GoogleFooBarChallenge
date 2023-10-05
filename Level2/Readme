@@ -1,3 +1,0 @@
-A perfect binary tree has post-order traversal like : 1,2,3,...,2^n-1 where n is the height of the tree
-This solution is for finding the parent node of specific node
-This solution is written in Python.
