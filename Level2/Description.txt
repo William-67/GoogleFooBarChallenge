@@ -6,3 +6,7 @@ This solution is written in Python.
 
 Second challenge:
 
+Design an algorithm that:
+Given a integer in base n, do the subtraction of (the digits in descending order) and (the digits in ascending order)
+using the result as new integer and do the same step
+Afterward find the length of a cycle of the result.
