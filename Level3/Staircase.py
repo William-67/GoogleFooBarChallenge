@@ -11,4 +11,4 @@ def solution(n):
                 staircase[i][j] += staircase[i-1][j-i]
     #remove the following line
     print(staircase)
-    return staircase[i][j] -1
+    return staircase[n-1][n-1] -1
